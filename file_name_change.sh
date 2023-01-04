@@ -18,7 +18,8 @@ done
 
 
 # this is a random example to demontrate for loop syntax in bash
-for file in *.htm; do
+for file in *.htm; dofile:///home/sav/email_matching_scripts
+
     # the basename command takes in filename and the extension and returns the filename only
     # pay attention to how variables are assigned
     # always refer to a variable using the $ before the name of the said variable
